@@ -1,0 +1,25 @@
+<mxfile host="app.diagrams.net" modified="2024-01-19T07:16:40.824Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="TBVSUhdDQ9qHnMFij_t3" version="22.1.21" type="github">
+  <diagram name="Page-1" id="zKfPyNCb0aLC_gcdpkvg">
+    <mxGraphModel dx="1035" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EKrWC7lnBSMT2pJvnHIc-1" value="&lt;div&gt;Product&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;ProductId&lt;/div&gt;&lt;div&gt;ProductName&lt;/div&gt;&lt;div&gt;Price&lt;/div&gt;&lt;div&gt;Description&lt;/div&gt;&lt;div&gt;Category&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="60" y="180" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="EKrWC7lnBSMT2pJvnHIc-2" value="&lt;div&gt;Customers&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;CustomerId&lt;/div&gt;&lt;div&gt;CustomerFirstName&lt;/div&gt;&lt;div&gt;CustomerLastName&lt;br&gt;&lt;/div&gt;&lt;div&gt;CustomerEmail&lt;/div&gt;&lt;div&gt;CustomerPassword&lt;/div&gt;&lt;div&gt;Address&lt;/div&gt;&lt;div&gt;MobileNo.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="220" y="180" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="EKrWC7lnBSMT2pJvnHIc-3" value="&lt;div&gt;Orders&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;OrderId&lt;/div&gt;&lt;div&gt;UserId&lt;/div&gt;&lt;div&gt;TotalAmount&lt;br&gt;&lt;/div&gt;&lt;div&gt;OrderDate&lt;/div&gt;&lt;div&gt;Shipping Address&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="440" y="180" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="EKrWC7lnBSMT2pJvnHIc-4" value="&lt;div&gt;Shopping Cart&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;pre&gt;&lt;code class=&quot;!whitespace-pre hljs language-plaintext&quot;&gt;cart_id&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div&gt;&lt;pre&gt;&lt;code class=&quot;!whitespace-pre hljs language-plaintext&quot;&gt;user_id &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div&gt;&lt;pre&gt;&lt;code class=&quot;!whitespace-pre hljs language-plaintext&quot;&gt;product_id &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div&gt;&lt;pre&gt;&lt;code class=&quot;!whitespace-pre hljs language-plaintext&quot;&gt;quantity &lt;br&gt;&lt;br&gt;&lt;/code&gt;&lt;code class=&quot;!whitespace-pre hljs language-plaintext&quot;&gt;added_at &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="620" y="100" width="190" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="EKrWC7lnBSMT2pJvnHIc-5" value="&lt;div&gt;Reviews&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;pre&gt;&lt;code class=&quot;!whitespace-pre hljs language-plaintext&quot;&gt;review_id&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div&gt;&lt;pre&gt;&lt;code class=&quot;!whitespace-pre hljs language-plaintext&quot;&gt;user_id &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div&gt;&lt;pre&gt;&lt;code class=&quot;!whitespace-pre hljs language-plaintext&quot;&gt;product_id &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div&gt;&lt;pre&gt;&lt;code class=&quot;!whitespace-pre hljs language-plaintext&quot;&gt;rating&lt;br&gt;&lt;br&gt;reviewDescription&lt;br&gt;&lt;/code&gt;&lt;code class=&quot;!whitespace-pre hljs language-plaintext&quot;&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="390" y="380" width="190" height="190" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
